@@ -7,6 +7,8 @@ aprendi o basico de html e a parte que me senti mais desafiado e aprendi mais fo
 A proposta do desafio: ./images/propostadodesafio.jpg
 Meu projeto: .images/meu projeto.jpg
 
+https://xyrlan.github.io/qr-code-component-main-challenge/
+
 
 
 
